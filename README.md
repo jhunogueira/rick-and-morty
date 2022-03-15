@@ -4,6 +4,9 @@ This was my first project using Next.js made about a year ago when I started my 
 
 This is a simpler app, the major point here was to learn hooks, methods and how to fetch an API, so don't bother with my design. :)
 
+<img width="1426" alt="rick" src="https://user-images.githubusercontent.com/83295063/158395600-9e70d5ec-58bb-4442-9e39-fe05f4a2d729.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
