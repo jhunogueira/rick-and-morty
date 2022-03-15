@@ -1,3 +1,9 @@
+# Rick and Morty Watched Episodes
+
+This was my first project using Next.js made about a year ago when I started my Front-end journey. I got help with a expert friend that taught me a lot about React.js.
+
+This is a simpler app, the major point here was to learn hooks, methods and how to fetch an API, so don't bother with my design. :)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
